@@ -21,7 +21,7 @@
    source venv/bin/activate
 
 2. Установите зависимости:
-   pip install aiogram python-dotenv
+   pip install aiogram python-dotenv aiosqlite
 
 3. Создайте файл .env в корне проекта и добавьте туда токен от BotFather:
    BOT_TOKEN=ваш_токен_здесь
